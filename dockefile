@@ -1,1 +1,1 @@
-FROM apacherocketmq/rocketmq-broker:5.0.0
+FROM apacherocketmq/rocketmq-broker:4.9.5
